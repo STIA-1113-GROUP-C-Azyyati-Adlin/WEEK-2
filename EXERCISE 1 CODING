@@ -1,0 +1,20 @@
+package exercises;
+
+public class CampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("6.30 am : Wake up");
+        System.out.println("7.00 am : Have a breakfast");
+        System.out.println("8.00 am : Go for a walk");
+        System.out.println("9.00 am : Study before class");
+        System.out.println("10.00 am : Start open the webex link to enter programming class");
+        System.out.println("10.30 am : Open eclipse");
+        System.out.println("11.00 am : Do programming exercise");
+        System.out.println("11.30 am : Submit the exercise");
+        System.out.println("12.00 pm : Listen to the next instruction from lecture");
+        System.out.println("12.30 pm : Class ended");
+        		
+	}
+
+}
